@@ -2,12 +2,12 @@ package = "fcgi"
 version = "scm-1"
 
 source = {
-	url = "git://github.com/mikejsavage/lua-fcgi.git",
+	url = "git://github.com/kochab/lua-fcgi.git",
 }
 
 description = {
 	summary = "A Lua module for writing FastCGI applications",
-	homepage = "http://github.com/mikejsavage/lua-fcgi",
+	homepage = "http://github.com/kochab/lua-fcgi",
 	license = "MIT",
 	maintainer = "Mike Savage",
 }
